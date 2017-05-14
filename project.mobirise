@@ -679,7 +679,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21.jpg",
             "bgColor": "#a38f84",
             "bgColorRadio": false,
             "bgVideo": {
@@ -817,7 +817,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-20.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-22.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -955,7 +955,7 @@
             "paddingBottom": "3",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-23.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1088,7 +1088,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-24.jpg",
             "bgColor": "#F2F2F2",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1131,7 +1131,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-25.jpg",
             "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1188,7 +1188,7 @@
             "paddingBottom": "1",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-26.jpg",
             "bgColor": "#303030",
             "bgColorRadio": false,
             "bgVideo": {
