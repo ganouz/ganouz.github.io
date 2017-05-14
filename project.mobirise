@@ -1,0 +1,1318 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Ganouzbiz",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Noto Sans",
+        "subtitleFont": "Montserrat",
+        "textFont": "Oxygen",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/ge-gano-excell-34-1.png",
+    "noImageResize": "true",
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 55,
+    "versionPublish": "3.12.1"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            },
+            ".mbr-section-lead B": {
+              "font-family": "'Oxygen', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
+              "text-align": "center"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#41a85f",
+              "text-align": "left"
+            },
+            ".mbr-section-lead SPAN": {
+              "font-family": "'PT Sans Narrow', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700",
+              "color": "#faaf40"
+            }
+          },
+          "_anchor": "header1-1",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-19.jpg",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "Sizning Biznes Hamkoringiz",
+          "text": "<b>Bebaho umringizdan nima xohlaysiz?<br>Siz uzoq umr mustahkam hayot va yosh ko'rinishni xohlar edingizmi?<br>Siz bir vaqtda boy va bahtli bo'lishni istaysizmi?</b><br><b><br><span style=\"font-style: normal;\">Ko'pchilik pul muammosiga duch keladi...!<br>Xarid qarzga qilinganda <br>Uy joy krediti<br>Shaxsiy kredit<br>Biznes kredit<br>Har oylik ro'zg'or chiqimlari</span></b><br><br>Pul muammolarini yechimi bormi?<br>Javob…!<br>Chiqimni kamaytirish<br>Daromatni ko’paytirish<br>Yangi biznesni boshlash<br><b>GANO EXCEL Korporatsiyasiga </b><br><b>Hamkor bo'ling.</b><b><br></b><b>Bu Juda Oddiy.</b><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>  "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H2": {
+              "font-size": "30px",
+              "text-align": "left",
+              "color": "#d14841",
+              "font-family": "'Raleway', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Raleway:400,300,700"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "25px"
+            },
+            "DIV": {
+              "text-align": "left",
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            "SPAN": {
+              "color": "#faaf40"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "6",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ashampoo-snap-2016.03.08-11h52m04s-004-gano-ozvuchka-uzb-mpg.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.7",
+                "contentAlign": "center",
+                "showTitle": true,
+                "title": "Sizning Biznes Hamkoringiz<br><br>",
+                "showText": true,
+                "text": "GANO EXCEL Korporatsiyasi Ganoderma yetishtirish bo'yicha shug'ullanadi.<br>Sizham mahsulotlardan istemol qiling va bizga qo'shiling.<br>Bu ajoyib mahsulotlarni o'zgalar bilan baham ko'ring va cheklanmagan daromatlarga ega bo'ling.<br><br>Korporatsiya mahsulotlari sifat bo'yicha dunyoda birinchilardandir.<br><br>Bizga qo'shilish uchun 4 ta mahsulot paketidan o'zingizga ma'qul kelgan 1 tasini tanlashingiz kifoya.<br>&nbsp;",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ashampoo-snap-2016.03.08-11h54m09s-011-gano-ozvuchka-uzb-mpg.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Gano Excel &nbsp;Korporatsiyasi &nbsp;orqali &nbsp;Malayziyaga &nbsp;sayohat.",
+                "showText": true,
+                "text": "Biz bilan biznes quring.O'z tarmog'ingizni tuzing.Pul va boshqa bonuslar sovg'alarga ega bo'ling.<br>Oila a'zolaringiz va kamandangiz bilan Malayziyaga sayohat qiling.<br>Va Boshqa ko'plab qo'shimcha imkoniyatlar.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor bo'lish</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ashampoo-snap-2016.03.08-11h55m50s-019-gano-ozvuchka-uzb-mpg.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.8",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Ganoderma Lucidum – Umr uzaytiruvchi o’simlik<div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Ganoderma Xitoyda Linchji nomi bilan mashhur bo’lib, Qizil qo’ziqorinlar oilasiga mansub qo’ziqorindir.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Xitoyliklar tomonidan 2000 yildan ortiq vaqt mobaynida ishlatiladi. Uni «O’simlikar qiroli» deb atashadi.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Ushbu qo’ziqorin juda noyob bo’lib tarixda uni faqat amaldorlar va imperatorlar istemol qilishgan.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp; Ananaviy xitoy meditsinasida 100 dan ortiq kasalliklarni davolash hamda umrni uzaytirish maqsadida qo’llaniladi.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Gano Excel Ganodermasi ishonch kafolatidir</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">200 dan ortiq Ganoderma turlaridan faqat 6 ta eng yuqoi shifobaxsh turlari tanlab olingan.&nbsp;</span></div><div><span style=\"font-weight: normal;\">Organik kultuvatsiya metodi bilan yetishtiriladi.</span></div><div><span style=\"font-weight: normal;\">Havfsiz va &nbsp;GMP, &nbsp;HACCP, ISO kabi halqaro standartlarga javob beruvchi oliy maxsulot.&nbsp;</span></div><div><span style=\"font-weight: normal;\">Halol sertifikatiga ega.&nbsp;</span></div>",
+                "showText": true,
+                "text": "",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor bo'lish</a>"
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/ashampoo-snap-2.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "right",
+                "showTitle": false,
+                "title": "Ganoderma Lucidum – Umr uzaytiruvchi o’simlik<div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Ganoderma Xitoyda Linchji nomi bilan mashhur bo’lib, Qizil qo’ziqorinlar oilasiga mansub qo’ziqorindir.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Xitoyliklar tomonidan 2000 yildan ortiq vaqt mobaynida ishlatiladi. Uni «O’simlikar qiroli» deb atashadi.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp;Ushbu qo’ziqorin juda noyob bo’lib tarixda uni faqat amaldorlar va imperatorlar istemol qilishgan.&nbsp;</span></div><div><span style=\"font-weight: normal;\">• &nbsp; &nbsp; Ananaviy xitoy meditsinasida 100 dan ortiq kasalliklarni davolash hamda umrni uzaytirish maqsadida qo’llaniladi.&nbsp;</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Gano Excel Ganodermasi ishonch kafolatidir</span></div><div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">200 dan ortiq Ganoderma turlaridan faqat 6 ta eng yuqoi shifobaxsh turlari tanlab olingan.&nbsp;</span></div><div><span style=\"font-weight: normal;\">Organik kultuvatsiya metodi bilan yetishtiriladi.</span></div><div><span style=\"font-weight: normal;\">Havfsiz va &nbsp;GMP, &nbsp;HACCP, ISO kabi halqaro standartlarga javob beruvchi oliy maxsulot.&nbsp;</span></div><div><span style=\"font-weight: normal;\">Halol sertifikatiga ega.&nbsp;</span></div>",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Hamkor bo'lish</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/ashampoo-snap-1.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0",
+                "contentAlign": "center",
+                "showTitle": false,
+                "title": "Ganoderma yetishtirish bo'yicha eng katta plantatsiya<div><span style=\"font-weight: normal;\"><br></span></div><div><span style=\"font-weight: normal;\">Siz xalqaro toifadagi tadbirkor bo'lishingiz va Gano Excel korporatsiyasi hamkori bo'lishingiz mumkin.</span></div>",
+                "showText": false,
+                "text": "",
+                "showButtons": false,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Hamkor bo'lish</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": false
+          },
+          "_anchor": "slider-h",
+          "articleLayout": false
+        },
+        {
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-size": "15px",
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/redreishi.gif",
+            "bgColor": "#323232",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000"
+          },
+          "text": "Gano Exel Distribuidor"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f",
+              "font-size": "32px"
+            },
+            "DIV": {
+              "color": "#eb6b56",
+              "font-size": "22px"
+            },
+            "SPAN": {
+              "font-size": "24px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#cccccc",
+            "showMeta": false
+          },
+          "title": "Gano eWorldwide ga Xush Kelibsiz !<br><span style=\"color: rgb(43, 6, 128); font-size: 22px; line-height: 1.1;\">Sizning muvaffaqiyatli elektron biznes hamkoringiz.</span><br><span style=\"color: rgb(43, 6, 128); font-size: 22px; line-height: 1.1;\">Halqaro bozor siz uchun.</span><div><span style=\"color: rgb(43, 6, 128); font-size: 22px; line-height: 1.1;\">Ko’p millatli korporatsiya  dunyoning 100 dan ortiq davlatlarida 22 yildan buyon muvaffaqiyatli ish faoliyatini olib bormoqda. Siz butun jahon marketing tarmog’ining eng oliy karparatsiyasi hamkori hisoblanasiz.</span></div><div><span style=\"color: rgb(43, 6, 128); font-size: 22px; line-height: 1.1;\"><br></span><br></div>",
+          "meta": "Sizning muvaffaqiyatli elektron biznes hamkoringiz"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead H1": {
+              "font-size": "15px"
+            },
+            ".mbr-section-title": {
+              "font-size": "30px"
+            },
+            ".lead UL": {
+              "text-align": "left",
+              "color": "#faaf40",
+              "font-size": "19px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-a",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Imkoniyatlaringiz;",
+          "text": "<ul><li><b>Orzularga erishish&nbsp;</b></li><li><b>Doimiy daromat topish&nbsp;</b></li><li><b>Oilaga ko’p vaqt ajratish&nbsp;</b></li><li><b>Moliyaviy erkinlikka erishish&nbsp;</b></li><li><b>Ideal turmush tarzi&nbsp;</b></li><li><b>Sog’liq va hayotiy quvvat bilan zavqlanish&nbsp;</b></li><li><b>O’zgalarga baht ulashish va yordam berish&nbsp;</b></li></ul><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "text-align": "center",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#21c2e7",
+              "font-size": "19px"
+            },
+            ".mbr-section-title DIV": {
+              "text-align": "center",
+              "font-size": "32px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-11",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-4.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showButtons": false,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "title": "Xoh ishoning xoh ishonmang ...&nbsp;<div>Siz ham yosh va boy bo’la olasiz!!!</div>",
+          "text": "Nega siz Gano Excel Korporatsiyasiga hamkor bo'lishingiz kerak...?"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "P": {
+              "color": "#eefdc6",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "18px"
+            },
+            "H5": {
+              "color": "#2b0680",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i",
+              "font-size": "16px"
+            },
+            "B": {
+              "color": "#eefdc6",
+              "font-size": "19px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "H4": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features3-12",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-5.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Kam mablag'ga mahsulot xarid qilasiz-kam tavakkallik",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Kam mablag'ga mahsulot xarid qilasiz-kam tavakkallik",
+          "subtitle1": "<p><b>Kam mablag'ga mahsulot xarid qilasiz-kam tavakkallik</b></p>",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/2.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Doimiy o'sib boruvchi foyda",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Doimiy o'sib boruvchi foyda",
+          "subtitle2": "<b>Doimiy o'sib boruvchi foyda</b>",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/3.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Moslashuvchan ish vaqti",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Moslashuvchan ish vaqti",
+          "subtitle3": "<b>Moslashuvchan ish vaqti</b>",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/4.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Elektron tijorat texnologiyasi",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Elektron tijorat texnologiyasi",
+          "subtitle4": "<b>Elektron tijorat texnologiyasi</b>",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/5.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Halqaro miqyosdagi hamkorlik",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Halqaro miqyosdagi hamkorlik",
+          "subtitle5": "<b>Halqaro miqyosdagi hamkorlik</b>",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/6.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Tajriba shart emas, pul topayotib o'rganasiz",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Tajriba shart emas, pul topayotib o'rganasiz",
+          "subtitle6": "<b>Tajriba shart emas, pul topayotib o'rganasiz</b>",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "font-size": "32px",
+              "text-align": "left"
+            },
+            "P": {
+              "font-size": "25px",
+              "text-align": "left"
+            },
+            "DIV": {
+              "text-align": "left"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box7",
+          "_anchor": "msg-box7-g",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-6.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20160318.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Korporatsiya Prezidenti<div>Leau Sun Seng</div><div><br></div>",
+          "text": "Mikolog olim, uzoqni ko’ruvchi tadbirkor. <br>1983 yildan boshlab qizil qo’ziqorinlar <br>ustida ilmiy izlanishlarni olib bordi. <br>U Malayziyaning nam iqlimi, Ganodermani <br>Yetishtirish uchun moyil ekanligini aniqladi.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "text-align": "left",
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#f7da64",
+              "text-align": "left",
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "_anchor": "msg-box5-k",
+          "_params": {
+            "imageSize": "50",
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/redreishi.gif",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.6",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/20170212202552.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Gano Excel dunyoda eng sifatli va ishonchli Ganoderma yetishtiradi",
+          "text": "<b>Har kuni Istemol qilish organizmingiz uchun foydali, tabiiy yo’l bilan yetishtiriladi 100% organik va havfsiz.</b><br><br>Salomatlik, boylik va Omad Hamrohingiz bo’lsin! To’g’ri tanlang va Bizning safimizga qo’shiling!<br>Oliy sifatli mahsulotlarni eksklyuziv texnologiyalarda ishlab chiqaramiz.<br><span style=\"line-height: 1.5;\">Dunyo bo’ylab 30 milliondan ortiq hayratlanarli natijalarga ega bo’lgan istemolchilar</span><br>Jahon talablariga mos ishlab chiqarish sharoiti&nbsp;<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#b8312f"
+            },
+            "I": {
+              "color": "#28324e"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-v",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#efefef",
+            "showMeta": true
+          },
+          "title": "Salomatlik mahsulotlari",
+          "meta": "<i>Gano Excel Products</i>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#21c2e7"
+            },
+            "P": {
+              "color": "#ffffff",
+              "font-size": "12px",
+              "text-align": "left"
+            }
+          },
+          "_anchor": "features3-x",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "2",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-9.jpg",
+            "bgColor": "#a38f84",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/reishi-gold.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Reishi Gold",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Reishi Gold",
+          "subtitle1": "Juda foydali xisoblanib 6 ta ganodermani oliy navlaridan tayyorlangan.",
+          "caption1": "-Immunitetni oshiradi va o’smalarga qarshi kurashadi.<br>-Qonda qand miqdorini balansini ushlaydi.<br>-Organizmdan zaxarlarni chiqaradi.<br>-Allergiyaga qarshi kurashadi.<br>-Xalistirin miqdorini kamaytirib yog’larni eritadi.<br>-Qon aylanishini yaxshilaydi,qonni suyultiradi.<br>-Qon bosimini meyyorlashtiradi.<br>-Erkin Radikallardan tozalaydi.<br>-Qon aylanish tizimini kislorod bilan ta’minlaydi.<br>-Umrni uzaytiradi.<br>-Excellium Gold bilan birga iste’mol qilinsa 5 barobar natija zo’r bo’ladi.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/excellium.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Excellium Gold",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Excellium Gold",
+          "subtitle2": "Mitseliya ganoderma lusidum.Bir oylik chala pishganidan  tayyorlanadi.&nbsp;",
+          "caption2": "-Organizmning himoya tizimini mustahkamlaydi.<br>-Organizmdagi zaharlarni chiqarib tashlaydi.<br>-Miyyaning vazifasini va rivojlanishini yaxshilaydi.<br>-Ferment,garmon va antitelolar ishlab chiqarilishida ishtirok etadi.<br>-Zararlangan xujayralarni qayta tiklab,xujayralarni yangilaydi.<br>-Bosh miyyani tinchlantiradi,asab tizimini meyyorlashtiradi.<br>-Vitamin va minerallarga boyligi bilan yosh organizmni rivojlanishini tezlashtiradi.<br>-Kattalar va bolalar sog’ligini tiklashda katta yordam beradi.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cordy-gold-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Cordy Gold",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Cordy Gold",
+          "subtitle3": "Noyob giyoh &lt;&lt;O’simlik hayvon&gt;&gt;Ximalayda dengiz sathidan 3000-5000m balandlikda o’sadi.Kapalak lichinkasidan o’sib chiqadi.",
+          "caption3": "-Yallig’lanishga qarshi kurashadi.<br>-Qon tomirlarini tozalaydi,qon quyulishini oldini oladi.<br>-Infarkt va Insultning oldini oladi.<br>-O’pka va buyrak funksiyalarini yaxshilaydi.<br>-Xolesterinni kamaytiradi.<br>-Suyaklarni Mustahkamlaydi.<br>-Hayotiy kuch va energiyani oshiradi.<br>-Immunitetni kuchaytiradi.<br>-Moddalar almashinuvini kuchaytiradi.<br>-Charchoqni kamaytiradi.<br>-Jinsiy quvvatni oshiradi.<br>-Insulin ishlab chiqarishni yaxshilaydi.<br>-Qand miqdorini normallashtirdi.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/i-gano-plus-2354ry64.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "iGano Plus",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "iGano Plus&nbsp;",
+          "subtitle4": "Ganodermaning 6 xil kombinatsiyasidan tayyorlangan.",
+          "caption4": "-Immunitetni oshiradi.<br>-O’smalarga qarshi kurashadi.<br>-Qonda qand miqdorini meyyorlashtiradi.<br>-Organizmdan zaharlarni chiqaradi.<br>-Ovqat hazim qilishni yaxshilaydi.<br>-Allergiyaga qarshi kurashadi.<br>-Xolesterin miqdorini kamaytiradi.<br>-Teri holatini yaxshilaydi.<br>-Qonni aylanishini yaxshilaydi.Suyultiradi,kislorod bilan ta’minlaydi.<br>-Qon bosimini meyyorlashtiradi.<br>-Erkin radikallardan tozalaydi.<br>-Umrni uzaytiradi.<br>-Kuchli tozalovchi hususiyatga ega.<br>-Organlarni funksiyalarini tartibga soladi va yaxshilaydi<br>-Detoksikatsiya jarayonini tezlashtiradi.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/excellium-asdfsdg5252346.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Excellium",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "Excellium",
+          "subtitle5": "Bosh miyyani quvvatlovchi.Ganoderma mitseliyasidan tashkil topgan.",
+          "caption5": "-Kuchli oziqlantiruvchi hisoblanadi.<br>-Immun tizimini mustahkamlaydi.<br>-Zaharlardan tozalaydi.<br>-Moddalar almashinuvini nazorat qiladi.<br>-Qonda qand miqdorini balansini ushlaydi.<br>-Miyya faoliyatinin faollashtiradi.<br>-Ferment,garmon va antitelolar ishlab chiqarilishida ishtirok etadi.<br>-Xujayralarni yangilaydi.<br>-Gano Plus bilan birga iste’mol qilinsa 5 barobar yaxshi natija beradi.<br>-Organizmni proteinlar,vitaminlar va mikroelementlar bilan ta’minlaydi.<br>-Asab tizimini normallashtiradi.<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/i-royale-wrqwqwrqwerwewet.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "iRoyale",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "iRoyale",
+          "subtitle6": "Royal Jelly va Ganoderma Lucidum. A,C,D,Y vitaminlariga boy.",
+          "caption6": "-Aqliy qobiliyatni oshiradi va xotirani yaxshilaydi.<br>-Stressni effektiv yo’qotadi,ruxiy holatni yaxshilaydi.<br>-Organizmga quvvat,energiya,rux bag’ishlaydi.<br>-Teri rangini yaxshilaydi,soch tirnoqlarni mustahkamlaydi.<br>-Yaralarni tez bitiradi.<br>-Ovqat hazim qilishni yaxshilaydi.<br>-Nevrolgik og’riqlarni bartaraf etadi.<br>-Immun tizimini ko’taradi.<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#21c2e7"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "features3-y",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-20.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sakanno.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "iSakanno Plus",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "iSakanno Plus",
+          "subtitle1": "Ganoderma va Tongkat Ali kombinatsiyasi.",
+          "caption1": "-Organizmni kasalliklardan himoya qiladi.<br>-Qon aylanishini yaxshilaydi.<br>-Hayotiy kuch va quvvatni qayta tiklaydi,baxsh etadi.<br>-Jinsiy funksiyani yaxshilaydi.<br>-Asab tizimiga ijobiy ta’sir ko’rsatadi.<br>-Ishtaha va ovqat hazim qilishni yaxshilaydi.<br>-Tanani quvvatlab modda almashinuvini yaxshilaydi.<br>-Xolesterinni kamaytiradi va yog’larni eritadi.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/igarcino.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i Garcino",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "i Garcino",
+          "subtitle2": "Yog’larni uglevodga aylantirib parchalaydi. Tamarindus, Ganoderma Lucidum",
+          "caption2": "-Vazinni nazorat qiladi.<br>-Organizmdagi ortiqcha yog’larni nazorat qiladi.<br>-Ishtahani nazorat qiladi.<br>-Hazim tizimini yaxshilaydi,normallashtiradi.<br>-Qon aylanishini yaxshilaydi.<br>-Metobolik ko’rsatkichni balanslab,to’qima regeneratsiyasini nazorat qiladi.<br>-Xolesterin darajasini nazorat qiladi.<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sovital.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Sovital Gold",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Sovital Gold",
+          "subtitle3": "Tez va havfsiz ozdiruvchidir. Suv o'tlari, Spirulina, B gruh vitaminlar, Ganoderma Lucidum",
+          "caption3": "-Organizm xujayralarini oziq moddalar bilan ta’minlaydi.<br>-Ovqat o’rnida iste’mol qilinadi va ozdiradi.<br>-Organizmda yetishmayotgan kaltsiy miqdorini to’ldiradi.<br>-Osteoporodni oldini oladi.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gano-tea-254we354352356236.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i Gano Tea",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "i Gano Tea",
+          "subtitle4": "Rooibos Choyi va Ganoderma Lucidum",
+          "caption4": "-Erkin radikallarni yo’qotadi.<br>-Organizmni himoya tizimini kuchaytiradi.<br>-Bosh og’rog’ini qoldiradi va uyquni yaxshilaydi.<br>-Organizmni sog’lomlashtirib yoshartiradi.<br>-Oshqozondagi diskomfortni bartaraf qiladi.<br>-Asab tizimini yaxshilaydi.<br>-Qon bosimini tushiradi.<br>-Teriga chiroy bag’ishlaydi.<br>-Quvvatni oshiradi.<br>-Kuchli tozalovchi hisoblanadi.<br>-Qichishishni yo’qotadi.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/supremo-cofe-q456246246.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i Supremo Cafe",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "i Supremo Cafe",
+          "subtitle5": "Saxaroza, o'simlik qaymog'i, Tongat Ali kofesi, Jenshen, Ganoderma Lucidum.",
+          "caption5": "-Stressdan keyingi holatda,ko’p terlashda yordam beradi.<br>-Hayotiy energiyani oshiradi.<br>-Qon aylanishini yaxshilaydi.<br>-Immun sistemasini mustahkamlaydi.<br>-Allergiyaga qarshi kurashadi.<br>-Aqliy qobiliyatni oshiradi.<br>-Libido va potensiyani oshiradi.<br>-Uzoq vaqt iste’mol qilinsa ozdiradi.<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gano-black-kop342353456346.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Gano Black Koppe",
+              "linkInNewWindow": false
+            }
+          },
+          "title6": "Gano Black Koppe",
+          "subtitle6": "Xushtam tabiiy qora kofe va ganoderma lucidum ekstrakti aralashmasi.",
+          "caption6": "-Bitta paketida 100 dan ortiq antioksidantlari bor.<br>-Chiroyli va zararsiz ozdiradi.<br>-O’t pufakda tosh paydo bo’lishi va jigar serrozi havfini kamaytiradi.<br>-Kariesning oldini oladi.<br>-Miyya faoliyatini10% oshiradi.&nbsp;<br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "H5": {
+              "color": "#21c2e7"
+            },
+            "P": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "12px"
+            }
+          },
+          "_anchor": "features3-10",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": "3",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-11.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.7",
+            "overlayColor": "#000000",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brown-romance-chocolate-123r54654747.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "Brown Romance",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Brown Romance",
+          "subtitle1": "Oliy navli Shvetsariya kakaosi, yog'sizlantirilgan quruq sut va Ganoderma Lucidum.",
+          "caption1": "-Bolalar uchun juda foydali.<br>-Anemiyani davolash uchun,allergik kasalliklarga qarshi.<br>-Onkologik kasalliklarni oldini olish uchun.<br>-Bosh miyyada qon aylanishini yaxshilaydi,xotira va tafakkurni kuchaytiradi.<br>-Qon bosimini pasaytiradi.<br>-Terini ultrafiolet nurlardan ximoyalaydi.<br>-Qonni suyultiradi.<br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/creal.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "C'REAL",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "C'REAL",
+          "subtitle2": "Suli, arpa, o'simlik qaymog'i, Spirulina, yod, Protein, Ganoderma Lucidum.",
+          "caption2": "-Bitta paketchada 100 dan ortiq antioksidant mikroelementlar mavjud.<br>-Chiroyli va zararsiz ozdiradi.<br>-Homila va kattalar bosh miyyasidagi asab hujayralarini &nbsp;mustahkamlab, kislorodga to'yintiradi.<br>-Aqliy qobiliyatni oshirishda samarali.<br>-Suyak tog'ay to'qimalarini tiklashda samarali.<br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/i-white-facial-bar.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i White Facial Bar",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "i White Facial Bar",
+          "subtitle3": "(Yuz Sovuni)",
+          "caption3": "-Terini sog’lom va chiroyli qiladi.<br>-Yuz terisidagi o’lgan va o’zgargan teri hujayralarini yo’qotadi.<br>-Teri strukturasini qayta tiklab oqartiradi,taranglik va silliqlik bag’ishlaydi.<br>-Yuz terisini ta’sirlantirmaydi.<br>-Yuz terisini namlantiradi.<br>-Bakteriyalarni yo’qotadi.<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/icleance-bosdy-bar-5467q2346.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i Cleance Body Bar",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "i Cleance Body Bar",
+          "subtitle4": "(Badan Sovuni)",
+          "caption4": "-Terini namlantiradi.<br>-Oziqlantiradi va yoshartiradi.<br>-Teri metabolizmini kuchaytiradi.<br>-Paralarni tozalaydi.<br>-Suv elektrolit balansini saqlaydi.<br>-Allergiya va sezuvchanlikni yo’qotadi.<br>-Ugri kasalligi va ,,Gribok’’ hastaligida qo’llaniladi.<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ispring-dental-gel.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "i Spring Dental Gel",
+              "linkInNewWindow": false
+            }
+          },
+          "title5": "i Spring Dental Gel",
+          "subtitle5": "Tish yuvish va boshqa muolajalar uchun gel.",
+          "caption5": "-Virus,bakteriya va mikroblarga qarshi kurashadi.<br>-Milk qonashini davolaydi.<br>-Stomatitni davolaydi.<br>-Tosh hosil bo’lishini oldini oladi.<br>-Milk va emalni mustahkamlaydi.<br>-Yumshoq tozalaydi.<br>-Yaralarni tez bitiradi.<br>-Gemorroyni davolaydi.<br>-Kuyganda Surtilsa dog’ qoldirmaydi.<br>-Oyoq zamburug’ kasalligida foyda beradi.<br>-Laringit,faringit va tanzillitda effektiv davo beradi.<br>-Gijjalarni tushuradi.<br>-Qizil o’ngach kuyishi va yallig’lanishini davolaydi.<br>-Gastrit,oshqozon va 12 barmoqli ichak yarasi kasalliklarida qo’llaniladi.<br>-Ayollar jinsiy a’zolari yallig’lanishi kasalliklarida  foyda beradi.<br> -Hashorat(Ari,o’rgimchak,chayon) chaqqanda tezda jarohatga surtilsa og’riqni qoldiradi va zahar tarqalishini oldini oladi.<br>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_styles": {
+            "H3": {
+              "font-size": "30px",
+              "color": "#ffffff"
+            },
+            "DIV": {
+              "color": "#ffffff"
+            },
+            "H2": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "msg-box1-16",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-12.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": false,
+            "showButtons": true,
+            "showText": true,
+            "showTitle": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>",
+          "text": "* Faqat o'z salomatligingiz uchun xarid;<div><br></div><div>* Halqaro ustoz shogirt tizimi;</div><div><br></div><div>* Vertual BEK - ofis;</div><div><br></div><div>* Ustozlik mukofotlari;</div><div><br></div><div>* Salomatlikni mustahkamlash hisobiga cheklanmagan mukofotlar;</div><div><br></div><div><br></div>",
+          "title": "Gano Excel Korporatsiyasi imkoniyatlaridan foydalaning"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-size": "32px"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#eafdff",
+              "text-align": "left",
+              "font-family": "'Bitter', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700",
+              "font-size": "18px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-15",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-13.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000",
+            "inverse": true,
+            "showButtons": true,
+            "showTitle": true,
+            "showText": true
+          },
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#contacts4-1e\" data-toolbar=\"-mbrBtnMove\">Hamkor bo'lish</a>",
+          "title": "Siz nimaga ega bo'lasiz...?",
+          "text": "1. Mahsulotning doimiy chegirmasi 30% gacha.<br>2. Salomatligingizni mustahkamlash imkoni.<br>3. Mukofotlanish imkoni.<br>4. Moslashuvchan ish vaqti.<br>5. Bepul kasb bilimini egallash.<br>6. \"Salomatlik elchisi\" mohir ustoz bo'lish imkoni.<br>7. Sayoxat qilish imkoni.<br>8. Yakka tartibdagi tadbirkorlik faoliyati: Gano kafe, klinika, xususiy do'kon, reklama va tavsiya qilish.<br><br>Faqatgina shu oddiy uslublar orqali siz salomatlik va farovonlikka erishasiz.&nbsp;"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff",
+              "font-size": "25px"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#85b4fa",
+              "font-size": "21px"
+            },
+            ".mbr-plan-title": {
+              "color": "#2b0680"
+            },
+            ".mbr-plan-subtitle": {
+              "color": "#000000",
+              "font-size": "15px"
+            },
+            ".mbr-price-figure": {
+              "color": "#b8312f"
+            },
+            ".mbr-plan-price-desc": {
+              "color": "#184b1d",
+              "font-size": "16px"
+            },
+            ".mbr-plan-label": {
+              "font-size": "12px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-17",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-14.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#000000",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "bg-primary",
+            "showButtons": true,
+            "secondType": "bg-primary",
+            "thirdType": "bg-primary",
+            "fourthType": "bg-primary"
+          },
+          "title": "Gano Excel Korporatsiyasiga hamkor bo'lishingiz uchun maxsulot paketini tanlashingiz kifoya.",
+          "subtitle": "Sizga 4 ta paket taklif qilinadi.<br>O'zingizga ma'qulini tanlaysiz.",
+          "label1": "1 Oylik Maxsulot",
+          "title1": "<br>BRILLIANT",
+          "subtitle1": "Maxsulot chegirmasi",
+          "currency1": "",
+          "price1": "2,5%",
+          "period1": "",
+          "description1": "Oddiy Biznes Uchun<br>",
+          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Ishni Gano Shifo va</li><li class=\"list-group-item\">Royal Mushroom&nbsp;</li><li class=\"list-group-item\">ofislarida yuritasiz</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"index.html#contacts4-1e\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>",
+          "label2": "3 Oylik Maxsulot",
+          "title2": "<br>OLTIN BRILLIANT&nbsp;",
+          "subtitle2": "Maxsulot chegirmasi",
+          "currency2": "",
+          "price2": "5%",
+          "period2": "",
+          "description2": "Oddiy Biznes Uchun",
+          "list2": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Ishni Gano Shifo va</span><br><li class=\"list-group-item\">Royal Mushroom&nbsp;</li><li class=\"list-group-item\">&nbsp;ofislarida yuritasiz</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"index.html#contacts4-1e\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>",
+          "label3": "6 Oylik Maxsulot",
+          "title3": "<br>TADBIRKOR&nbsp;",
+          "subtitle3": "Maxsulot chegirmasi",
+          "currency3": "",
+          "price3": "7,5%",
+          "period3": "",
+          "description3": "Yakka Tadbirkorlik Imkoniyati",
+          "list3": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">Yakka tadbirkorlik</span><br><li class=\"list-group-item\">Gano kafe, Klinika&nbsp;</li><li class=\"list-group-item\">Sklad ochish</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"index.html#contacts4-1e\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>",
+          "label4": "12 Oylik Maxsulot",
+          "title4": "<br>XALQARO TADBIRKOR&nbsp;",
+          "subtitle4": "Maxsulot chegirmasi",
+          "currency4": "",
+          "price4": "10%",
+          "period4": "",
+          "description4": "Yakka Tadbirkorlik Imkoniyati",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Yakka tadbirkorlik</li><li class=\"list-group-item\">Gano kafe, Klinika&nbsp;</li><li class=\"list-group-item\">Sklad ochish</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"index.html#contacts4-1e\" class=\"btn btn-white btn-white-outline\" data-toolbar=\"-mbrBtnMove\">Hamkor Bo'lish</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts4",
+          "_styles": {
+            "SPAN": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            },
+            "P": {
+              "color": "#41a85f",
+              "font-size": "18px"
+            },
+            "B": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            "UL": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "contacts4-1e",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-15.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.8",
+            "overlayColor": "#000000"
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Noto Sans, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Bugunoq bizga qo'shiling.</b></span></font><br>tel;+998(91)637-36-76<br><b>Tez orada menedjerlar siz bilan bog'lanishadi.</b><br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><br></p><ul class=\"mbr-contacts__list\"><li><b>Ismi Sharifingizni to'liq kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/\"></a></li><li><b>Telefon raqamingizni kompaniya kodi bilan to'liq kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-win.zip\"></a></li><li><b>Qaysi viloyatdan ekaningizni kiriting</b><a class=\"text-white\" href=\"https://mobirise.com/mobirise-free-mac.zip\"></a></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "284854777@e2t.link",
+            "alerts": {
+              "success": "Gano Excel sizga sog'lik va boylik tilaydi\nOMAD YOR BO'LSIN\nTez orada siz bilan bog'lanishadi.\nSalomat bo'ling"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Ismi Sharifingiz (To'liq kiriting masalan Rasulov Akbar)"
+              },
+              "email": {
+                "title": "Email",
+                "visible": false,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon Raqamingiz (To'liq kiriting masalan +998916373676)"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Qaysi viloyatdan ekaningizni kiriting "
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-danger\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\">Yuborish</a>"
+        }
+      ]
+    }
+  }
+}
