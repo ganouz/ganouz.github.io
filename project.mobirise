@@ -42,7 +42,7 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "48px"
+              "font-size": "30px"
             },
             ".mbr-section-lead B": {
               "font-family": "'Oxygen', sans-serif",
@@ -679,7 +679,7 @@
             "paddingBottom": "2",
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-21.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
             "bgColor": "#a38f84",
             "bgColorRadio": false,
             "bgVideo": {
@@ -817,7 +817,7 @@
             "paddingBottom": 2,
             "bgImageRadio": true,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-22.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/ganodsc04991.jpg",
             "bgColor": "#fff",
             "bgColorRadio": false,
             "bgVideo": {
